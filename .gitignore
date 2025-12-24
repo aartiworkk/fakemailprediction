@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+model/pytorch_model.bin
+model/tf_model.h5
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Cache
+*.cache
