@@ -24,19 +24,10 @@ fake-job-offer-detection/
 ├── README.md                  # Project documentation
 ├── requirements.txt           # Python dependencies
 ├── .gitignore                 # Ignore cache & model files
-├── LICENSE                    # MIT license
-├── Fake_Job_Offer_Detection_Full_Report.docx  # Full report
-│
 ├── notebook/
 │   └── Fake_Job_Detection.ipynb  # Kaggle Notebook
-│
-├── model/                     # Fine-tuned DistilBERT Model
-│   ├── config.json
-│   ├── pytorch_model.bin
-│   └── tokenizer.json
-│
 └── assets/                    # Images / diagrams
-    ├── diagram.png
+    ├── comparison_table.jpg
     └── screenshots.png
 ```
 
