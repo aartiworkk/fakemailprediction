@@ -1,1 +1,13 @@
 streamlit==1.28.0
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+torch
+transformers
+streamlit
+python-docx
+requests
+tqdm
